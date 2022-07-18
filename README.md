@@ -15,6 +15,13 @@ Accounts include:
 - Invesco US (Facebook)
 - Invesco CA (Facebook)
 
+This is a collection of:
+- Analytical methodologies
+- Data engineering techniques
+- Mathematical Equations
+- Data visualization conceptualizations
+- Production environment notes
+
 ## Future Improvements
 
 The code written here will be used to provide key metrics to segment marketing teams in order to optimize content by enabling data driven decision making. While the primary goal is to provide stakeholders with relevant insights into content performance, the underlying aspiration is to turn these insights into intelligible dashboards that can decrease strain on the firm's social analysts when it comes to repeatedly generating these insights from scratch.
@@ -32,4 +39,4 @@ Even these written reports are time-consuming, which is why a set of advanced da
 
 An issue that has plagued data intesive work across the board is the idea that data solves everything. While it is true that data can offer a great deal of perfromance insight, it is exceedingly difficult to do that without a set of very specific business problems that you want the data to solve.
 
-The process as it exists today is very cumbersome because we are not asking those specific questions, but instad are simply using data as a catch all 
+The process as it exists today is very cumbersome because we are not asking those specific questions, but instad are simply using data as a catch all. These reports will enable us to leverage agile process principals to continuously iterate and hone in on key performance indicators.
